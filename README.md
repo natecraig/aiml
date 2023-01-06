@@ -1,2 +1,2 @@
 # Artificial Intelligence and Machine Learning
-Spring 2022
+Spring 2023
