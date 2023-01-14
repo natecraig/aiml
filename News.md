@@ -1,5 +1,6 @@
 # News and Optional Articles
 
+- [Large Language Models as Simulated Economic Agents.](https://john-joseph-horton.com/papers/llm_ask.pdf) John Horton, MIT
 - [ChatGPT Can't Kill Anything Worth Preserving.](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth) The Biblioracle
 - [This Voice Doesn't Exist.](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/) Eleven Labs
 - [Ghost Writer: Microsoft Looks to Add OpenAI’s Chatbot Technology to Word, Email.](https://www.theinformation.com/articles/ghost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email) The Information
