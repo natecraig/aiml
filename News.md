@@ -1,4 +1,4 @@
-# News and Optional Articles
+# News
 
 - [Large Language Models as Simulated Economic Agents.](https://john-joseph-horton.com/papers/llm_ask.pdf) John Horton, MIT
 - [ChatGPT Can't Kill Anything Worth Preserving.](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth) The Biblioracle
