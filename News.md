@@ -1,5 +1,6 @@
 # News
 
+- [Neural Networks and the Chomsky Hierarchy.](https://arxiv.org/pdf/2207.02098.pdf) Grégoire Delétang et al.
 - [NVIDIA Broadcast Adds Eye Contact Feature.](https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/) NVIDIA
 - [Large Language Models as Simulated Economic Agents.](https://john-joseph-horton.com/papers/llm_ask.pdf) John Horton, MIT
 - [ChatGPT Can't Kill Anything Worth Preserving.](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth) The Biblioracle
