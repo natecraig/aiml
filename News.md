@@ -1,5 +1,6 @@
 # News
 
+- [An important next step on our AI journey.](https://blog.google/technology/ai/bard-google-ai-search-updates/) Google
 - [A Skeptical Take on the A.I. Revolution.](https://www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.html) NYT
 - [Neural Networks and the Chomsky Hierarchy.](https://arxiv.org/pdf/2207.02098.pdf) Grégoire Delétang, DeepMind, et al.
 - [NVIDIA Broadcast Adds Eye Contact Feature.](https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/) NVIDIA
