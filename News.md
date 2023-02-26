@@ -1,5 +1,7 @@
 # News
 
+- [ChatGPT Heralds an Intellectual Revolution.](https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6) WSJ
+- [For Chat-Based AI, We Are All Once Again Tech Companies' Guinea Pigs.](https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b) WSJ
 - [A Conversation With Bing's Chatbot Left Me Deeply Unsettled.](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html) NYT
 - [An important next step on our AI journey.](https://blog.google/technology/ai/bard-google-ai-search-updates/) Google
 - [A Skeptical Take on the A.I. Revolution.](https://www.nytimes.com/2023/01/06/opinion/ezra-klein-podcast-gary-marcus.html) NYT
