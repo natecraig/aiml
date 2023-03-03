@@ -1,5 +1,6 @@
 # News
 
+- [High-resolution image reconstruction with latent diffusion models from human brain activity.](https://sites.google.com/view/stablediffusion-with-brain/) Computer Vision and Pattern Recognition Conference
 - [ChatGPT Heralds an Intellectual Revolution.](https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6) WSJ
 - [For Chat-Based AI, We Are All Once Again Tech Companies' Guinea Pigs.](https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b) WSJ
 - [A Conversation With Bing's Chatbot Left Me Deeply Unsettled.](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html) NYT
