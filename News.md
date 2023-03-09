@@ -1,5 +1,6 @@
 # News
 
+- [How Computer Vision Is Changing Manufacturing in 2023.](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/) Voxel51
 - [High-resolution image reconstruction with latent diffusion models from human brain activity.](https://sites.google.com/view/stablediffusion-with-brain/) Computer Vision and Pattern Recognition Conference
 - [ChatGPT Heralds an Intellectual Revolution.](https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6) WSJ
 - [For Chat-Based AI, We Are All Once Again Tech Companies' Guinea Pigs.](https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b) WSJ
