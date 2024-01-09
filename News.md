@@ -1,5 +1,6 @@
 # News
 
+[OpenAI warns copyright crackdown could doom ChatGPT.](https://www.telegraph.co.uk/business/2024/01/07/openai-warns-copyright-crackdown-could-doom-chatgpt/) The Telegraph
 - [From ChatGPT to Getty v. Stability AI: A Running List of Key AI-Lawsuits.](https://www.thefashionlaw.com/from-chatgpt-to-deepfake-creating-apps-a-running-list-of-key-ai-lawsuits/) The Fashion Law
 - [Opportunities in AI.](https://www.youtube.com/watch?v=5p248yoa3oE) Andrew Ng
 - [High-resolution image reconstruction with latent diffusion models from human brain activity.](https://sites.google.com/view/stablediffusion-with-brain/) Computer Vision and Pattern Recognition Conference
