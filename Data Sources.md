@@ -26,6 +26,7 @@
 
 ## Data Challenges
 - [DrivenData](http://drivendata.org)
+- [EY Open Science Data Challenges](https://challenge.ey.com)
 - [Kaggle](http://www.kaggle.com)
 
 ## Miscellaneous
