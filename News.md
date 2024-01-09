@@ -1,5 +1,6 @@
 # News
 
+- [From ChatGPT to Getty v. Stability AI: A Running List of Key AI-Lawsuits.](https://www.thefashionlaw.com/from-chatgpt-to-deepfake-creating-apps-a-running-list-of-key-ai-lawsuits/) The Fashion Law
 - [Opportunities in AI, 2023.](https://www.youtube.com/watch?v=5p248yoa3oE) Andrew Ng
 - [High-resolution image reconstruction with latent diffusion models from human brain activity.](https://sites.google.com/view/stablediffusion-with-brain/) Computer Vision and Pattern Recognition Conference
 - [For Chat-Based AI, We Are All Once Again Tech Companies' Guinea Pigs.](https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b) WSJ
