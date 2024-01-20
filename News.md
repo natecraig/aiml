@@ -1,5 +1,6 @@
 # News
 
+[Yann LeCun, chief AI scientist at Meta: Human-level artificial intelligence is going to take a long time.](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html) El Pais
 [OpenAI warns copyright crackdown could doom ChatGPT.](https://www.telegraph.co.uk/business/2024/01/07/openai-warns-copyright-crackdown-could-doom-chatgpt/) The Telegraph
 - [From ChatGPT to Getty v. Stability AI: A Running List of Key AI-Lawsuits.](https://www.thefashionlaw.com/from-chatgpt-to-deepfake-creating-apps-a-running-list-of-key-ai-lawsuits/) The Fashion Law
 - [Opportunities in AI.](https://www.youtube.com/watch?v=5p248yoa3oE) Andrew Ng
