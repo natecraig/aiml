@@ -24,15 +24,13 @@
 - [World Bank Open Data](https://data.worldbank.org)
 - [Yelp Data](https://www.yelp.com/dataset/challenge)
 
-## Data Challenges
+## Data Aggregators and Challenges
 - [DrivenData](http://drivendata.org)
 - [EY Open Science Data Challenges](https://challenge.ey.com)
 - [Kaggle](http://www.kaggle.com)
-
-## Miscellaneous
-- [FiveThirtyEight](https://fivethirtyeight.com) 
 - [Open Data Stack Exchange](https://opendata.stackexchange.com)
 - [Our World in Data](https://ourworldindata.org)
+- [Papers with Code](https://paperswithcode.com)
 
 ## Example Datasets
 - [New car sales in Norway](https://www.kaggle.com/dmi3kno/newcarsalesnorway)
