@@ -1,5 +1,6 @@
 # News
 
+- [Meta's AI-generated bot profiles are not being received well.](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots) The Verge
 - [Google DeepMind Veo 2.](https://deepmind.google/technologies/veo/veo-2/)
 - [Yann LeCun, chief AI scientist at Meta: Human-level artificial intelligence is going to take a long time.](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html) El Pais
 - [OpenAI warns copyright crackdown could doom ChatGPT.](https://www.telegraph.co.uk/business/2024/01/07/openai-warns-copyright-crackdown-could-doom-chatgpt/) The Telegraph
